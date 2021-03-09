@@ -1,9 +1,8 @@
 # description
-This project contains a koan for implementing unit test with jasmin-expect 
+This project contains a koan for implementing unit test with jest
 
 - TypeScript
-- Karma
-- Jasmin
+- Jest
 
 # initial steps
 - clone the project from github
@@ -11,5 +10,5 @@ This project contains a koan for implementing unit test with jasmin-expect
 - run npm test 
 
 * additionaly for Windows: 
-karma can not be executed from the commandline directly, you need to install karma-cli globally!
-- npm install -g karma-cli
+You can install jest also globally:
+- npm install -g jest-cli
