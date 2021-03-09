@@ -1,0 +1,24 @@
+{
+    "name": "ts-karma-template",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "test": "karma start"
+    },
+    "private": true,
+    "author": "rolger",
+    "dependencies": {
+        "@types/jasmine": "^3.5.0",
+        "@types/node": "^12.12.14",
+        "jasmine-core": "^3.5.0",
+        "jasmine-expect": "^4.0.3",
+        "karma": "^6.1.1",
+        "karma-chrome-launcher": "^3.1.0",
+        "karma-cli": "^2.0.0",
+        "karma-jasmine": "^4.0.0",
+        "karma-jasmine-html-reporter": "^1.5.4",
+        "karma-jasmine-matchers": "^4.0.2",
+        "karma-typescript": "~5.4.0",
+        "typescript": "latest"
+    }
+}
