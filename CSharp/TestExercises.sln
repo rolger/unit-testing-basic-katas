@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestExamplesTest", "TestDoubleKatasTest\TestExamplesTest.csproj", "{7D9388FE-5561-4449-97F3-81156A9D535E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestExamplesTest", "TestExamplesTest\TestExamplesTest.csproj", "{7D9388FE-5561-4449-97F3-81156A9D535E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestExercises", "TestDoublesExercise\TestExercises.csproj", "{27D5958E-862E-485C-A4C5-B8F3B433F9C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestExercises", "TestExercises\TestExercises.csproj", "{27D5958E-862E-485C-A4C5-B8F3B433F9C9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestExercisesTest", "TestDoublesExerciseTest\TestExercisesTest.csproj", "{DACDD85E-00DC-455A-B0E5-A15506402543}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestExercisesTest", "TestExercisesTest\TestExercisesTest.csproj", "{DACDD85E-00DC-455A-B0E5-A15506402543}"
 	ProjectSection(ProjectDependencies) = postProject
 		{27D5958E-862E-485C-A4C5-B8F3B433F9C9} = {27D5958E-862E-485C-A4C5-B8F3B433F9C9}
 	EndProjectSection

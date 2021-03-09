@@ -62,7 +62,11 @@ local.properties
 !.vscode/launch.json
 !.vscode/extensions.json
 .history/*
+
+# MS Studio
 .vs/
+obj/
+bin/
 
 # misc
 /.sass-cache

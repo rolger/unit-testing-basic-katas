@@ -1,8 +1,0 @@
-C:\Users\roland.germ\projects\testexercise-katas\CSharp\TestExercisesKatas\TestDoublesExercise\bin\Debug\netcoreapp2.1\TestExercices.deps.json
-C:\Users\roland.germ\projects\testexercise-katas\CSharp\TestExercisesKatas\TestDoublesExercise\bin\Debug\netcoreapp2.1\TestExercices.dll
-C:\Users\roland.germ\projects\testexercise-katas\CSharp\TestExercisesKatas\TestDoublesExercise\bin\Debug\netcoreapp2.1\TestExercices.pdb
-C:\Users\roland.germ\projects\testexercise-katas\CSharp\TestExercisesKatas\TestDoublesExercise\obj\Debug\netcoreapp2.1\TestExercices.csproj.CoreCompileInputs.cache
-C:\Users\roland.germ\projects\testexercise-katas\CSharp\TestExercisesKatas\TestDoublesExercise\obj\Debug\netcoreapp2.1\TestExercices.AssemblyInfoInputs.cache
-C:\Users\roland.germ\projects\testexercise-katas\CSharp\TestExercisesKatas\TestDoublesExercise\obj\Debug\netcoreapp2.1\TestExercices.AssemblyInfo.cs
-C:\Users\roland.germ\projects\testexercise-katas\CSharp\TestExercisesKatas\TestDoublesExercise\obj\Debug\netcoreapp2.1\TestExercices.dll
-C:\Users\roland.germ\projects\testexercise-katas\CSharp\TestExercisesKatas\TestDoublesExercise\obj\Debug\netcoreapp2.1\TestExercices.pdb
